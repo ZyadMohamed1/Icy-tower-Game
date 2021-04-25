@@ -1,6 +1,6 @@
 ## Icy-tower-Game
 
-![Icy Tower](./image/ice Tower.png)
+![ice](/images/ice.png)
 
 
 ## Summary
